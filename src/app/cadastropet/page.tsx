@@ -90,7 +90,8 @@ export default function CadastroPet() {
                   
                   
                     <Input type="number" accept="image/*" placeholder="Peso(kg)"  className=""  />
-                    <Input type="date" accept="image/*" placeholder="Data de nascimento"   className=""  />
+                    <Label htmlFor="" className="">Data de nascimento</Label>
+                    <Input type="date" accept="image/*" placeholder="Data de nascimento"   className="w-full"  />
                 
                 </div>
                 <Button className="w-full h-10 bg-[#5A5CFF] text-white rounded-lg mt-4">Cadastrar Pet</Button>

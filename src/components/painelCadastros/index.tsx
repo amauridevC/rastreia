@@ -20,7 +20,7 @@ export default function PainelCadastros() {
 
             <div className="flex flex-col sm:flex-row justify-center  sm:justify-between  items-center mb-4">
             <h1 className="font-bold mb-4">Pets Cadastrados</h1>
-            <Link href="/cadastropet" className="w-full sm:w-40">
+            <Link href="/meupet/cadastropet" className="w-full sm:w-40">
             <Button className="bg-[#5361FF] text-white rounded-sm shadow-lg text-[12px] w-full sm:w-40">CADASTRAR NOVO PET</Button>
             </Link>
             </div>

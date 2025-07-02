@@ -2,7 +2,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Label } from "@/components/ui/label"
 import { Dot } from 'lucide-react';
 import { ArrowLeft } from 'lucide-react';
-import { Button } from "../../components/ui/button";
+import { Button } from "../../../components/ui/button";
 import Link from "next/link";
 import { Input } from "@/components/ui/input";
 import {

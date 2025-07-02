@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function CardPetCadastrado() {
     return (
         <div>
-            <Link href="/carteira">
+            <Link href="/meupet/carteira">
             <div className="border p-4 rounded-lg shadow-md flex ">
                 <div className=" flex justify-center items-center">
                 <Avatar className="w-15 h-15 mr-3 border-1 border-[#5A5CFF]">

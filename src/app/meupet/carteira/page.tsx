@@ -1,7 +1,7 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Separator } from "@/components/ui/separator"
 import { ArrowLeft } from 'lucide-react';
-import { Button } from "../../components/ui/button";
+import { Button } from "../../../components/ui/button";
 import Link from "next/link";
 import { Container } from "@/components/container";
 import { Label } from "@/components/ui/label";
